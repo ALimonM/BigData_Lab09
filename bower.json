@@ -1,0 +1,23 @@
+{
+  "name": "BigData_Lab09",
+  "homepage": "https://github.com/obr214/BigData_Lab09",
+  "authors": [
+    "Osvaldo Bulos",
+    "Ali Limon",
+    "Sebastian Brarda"
+  ],
+  "description": "Lab 09 - HTML+jQuery+D3",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jQuery": "^2.2.3",
+    "d3": "^3.5.16"
+  }
+}

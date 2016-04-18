@@ -1,0 +1,8 @@
+.axis line{
+    fill: none;
+    stroke: black;
+}
+
+circle {
+    fill: steelblue;
+}
